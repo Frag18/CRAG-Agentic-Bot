@@ -1,0 +1,5 @@
+config_name,chunk_size,chunk_overlap,total_chunks,indexing_time_sec,eval_time_sec,mean_precision_at_k,mean_recall_at_k,mean_f1_at_k,mean_reciprocal_rank,hit_rate_at_k,missed_question_count
+400_chars_50_overlap,400,50,748,26.88,0.183,0.1389,0.7778,0.2328,0.8333,0.8333,2
+600_chars_100_overlap,600,100,601,8.27,0.184,0.1389,0.7778,0.2328,0.8333,0.8333,2
+900_chars_150_overlap,900,150,498,9.07,0.191,0.1389,0.7778,0.2328,0.8333,0.8333,2
+1200_chars_200_overlap,1200,200,448,8.01,0.195,0.1389,0.7778,0.2328,0.8333,0.8333,2

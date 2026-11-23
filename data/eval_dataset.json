@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "Q1",
+    "question": "What are the four functions of the AI Risk Management Framework?",
+    "relevant_chunk_ids": [
+      "ai100-1:figure:fig_5",
+      "ai100-1:p25:c1"
+    ],
+    "reference_answer": "The AI RMF Core is composed of four functions: GOVERN, MAP, MEASURE, and MANAGE. Governance is designed to be a cross-cutting function that informs and is infused throughout the other three functions."
+  },
+  {
+    "question_id": "Q2",
+    "question": "Which function is designed to be cross-cutting in the AI RMF Core according to Figure 5?",
+    "relevant_chunk_ids": [
+      "ai100-1:figure:fig_5"
+    ],
+    "reference_answer": "Governance (GOVERN) is designed to be a cross-cutting function that informs and is infused throughout the other three functions: Map, Measure, and Manage."
+  },
+  {
+    "question_id": "Q3",
+    "question": "What are the characteristics of trustworthy AI systems depicted in Figure 4?",
+    "relevant_chunk_ids": [
+      "ai100-1:figure:fig_4"
+    ],
+    "reference_answer": "The characteristics of trustworthy AI systems in Figure 4 are: Valid & Reliable (which serves as the base), Safe, Secure & Resilient, Explainable & Interpretable, Privacy-Enhanced, Fair - With Harmful Bias Managed, and Accountable & Transparent (which relates vertically to all other characteristics)."
+  },
+  {
+    "question_id": "Q4",
+    "question": "What does subcategory MEASURE 2.11 cover?",
+    "relevant_chunk_ids": [
+      "ai100-1:s5.3:measure-2.11"
+    ],
+    "reference_answer": "MEASURE 2.11 covers the requirement that measurement approaches for AI system performance and trustworthiness are documented, and procedures for measuring and monitoring metrics are documented and communicated."
+  },
+  {
+    "question_id": "Q5",
+    "question": "What suggested action is provided for MG-3.2-001 in the Generative AI profile?",
+    "relevant_chunk_ids": [
+      "ai600-1:action:mg-3.2-001"
+    ],
+    "reference_answer": "MG-3.2-001 suggests applying explainable AI (XAI) techniques (such as embeddings analysis, model compression/distillation, gradient-based attributions, counterfactual prompts, and word clouds) as part of continuous improvement to mitigate unexplainable GAI risks."
+  },
+  {
+    "question_id": "Q6",
+    "question": "What suggested action addresses CBRN information risks under GV-3.2-001?",
+    "relevant_chunk_ids": [
+      "ai600-1:action:gv-3.2-001"
+    ],
+    "reference_answer": "GV-3.2-001 establishes policies and procedures regarding Chemical, Biological, Radiological, or Nuclear (CBRN) information or capabilities, ensuring GAI systems are assessed for dangerous capabilities and misuse."
+  },
+  {
+    "question_id": "Q7",
+    "question": "What is the commitment described in category GOVERN 4?",
+    "relevant_chunk_ids": [
+      "ai100-1:s5.1:govern-4.1",
+      "ai100-1:s5.1:govern-4.2",
+      "ai100-1:s5.1:govern-4.3"
+    ],
+    "reference_answer": "GOVERN 4 states: 'Organizational teams are committed to a culture that considers and communicates AI risk.' Its subcategories cover organizational culture, transparency, and reporting channels."
+  },
+  {
+    "question_id": "Q8",
+    "question": "How does the Generative AI Profile define confabulation?",
+    "relevant_chunk_ids": [
+      "ai600-1:p10:c1",
+      "ai600-1:p10:c2"
+    ],
+    "reference_answer": "Confabulation refers to when GAI systems generate confidently presented erroneous or false content in response to prompts, also colloquially known as hallucinations or fabrications, which arise from statistical next-token prediction."
+  },
+  {
+    "question_id": "Q9",
+    "question": "What are the AI actor tasks across lifecycle stages described in Figure 3?",
+    "relevant_chunk_ids": [
+      "ai100-1:figure:fig_3"
+    ],
+    "reference_answer": "Figure 3 details AI actors across lifecycle stages (Plan and Design, Collect and Process Data, Build and Use Model, Verify and Validate, Deploy and Use, Operate and Monitor, Use or Impacted by) and TEVV activities."
+  },
+  {
+    "question_id": "Q10",
+    "question": "What is subcategory GOVERN 1.1 regarding legal and regulatory requirements?",
+    "relevant_chunk_ids": [
+      "ai100-1:s5.1:govern-1.1"
+    ],
+    "reference_answer": "GOVERN 1.1 requires that legal and regulatory requirements involving AI are understood, managed, and documented."
+  },
+  {
+    "question_id": "Q11",
+    "question": "What does subcategory MAP 1.1 state regarding AI context?",
+    "relevant_chunk_ids": [
+      "ai100-1:s5.2:map-1.1"
+    ],
+    "reference_answer": "MAP 1.1 requires that the intended purposes, potential applications, and context of the AI system are identified, documented, and periodically reviewed."
+  },
+  {
+    "question_id": "Q12",
+    "question": "What suggested action is defined under MS-1.1-001 for monitoring information integrity?",
+    "relevant_chunk_ids": [
+      "ai600-1:action:ms-1.1-001"
+    ],
+    "reference_answer": "MS-1.1-001 covers measuring and monitoring information integrity risks in generative AI outputs."
+  }
+]

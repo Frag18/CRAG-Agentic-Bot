@@ -1,0 +1,23 @@
+# Agentic RAG System Dependencies
+langgraph>=1.2.0
+langchain>=1.4.0
+langchain-core>=1.6.0
+langchain-community>=0.4.0
+langchain-huggingface>=1.2.0
+langchain-chroma>=1.1.0
+langchain-groq>=1.1.0
+langchain-google-genai>=2.0.0
+langchain-openai>=1.7.0
+llama-index-core>=0.11.0
+rank_bm25>=0.2.2
+sentence-transformers>=6.1.0
+chromadb>=1.5.0
+tenacity>=8.2.0
+
+# Document Ingestion & PDF Processing
+pymupdf>=1.24.0
+pypdf>=6.2.0
+pdfplumber>=0.11.0
+Pillow>=10.0.0
+python-dotenv>=1.2.0
+rich>=15.0.0

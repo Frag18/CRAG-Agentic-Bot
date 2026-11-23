@@ -1,0 +1,60 @@
+{
+  "experiments": [
+    {
+      "config_name": "400_chars_50_overlap",
+      "chunk_size": 400,
+      "chunk_overlap": 50,
+      "total_chunks": 748,
+      "indexing_time_sec": 26.88,
+      "eval_time_sec": 0.183,
+      "mean_precision_at_k": 0.1389,
+      "mean_recall_at_k": 0.7778,
+      "mean_f1_at_k": 0.2328,
+      "mean_reciprocal_rank": 0.8333,
+      "hit_rate_at_k": 0.8333,
+      "missed_question_count": 2
+    },
+    {
+      "config_name": "600_chars_100_overlap",
+      "chunk_size": 600,
+      "chunk_overlap": 100,
+      "total_chunks": 601,
+      "indexing_time_sec": 8.27,
+      "eval_time_sec": 0.184,
+      "mean_precision_at_k": 0.1389,
+      "mean_recall_at_k": 0.7778,
+      "mean_f1_at_k": 0.2328,
+      "mean_reciprocal_rank": 0.8333,
+      "hit_rate_at_k": 0.8333,
+      "missed_question_count": 2
+    },
+    {
+      "config_name": "900_chars_150_overlap",
+      "chunk_size": 900,
+      "chunk_overlap": 150,
+      "total_chunks": 498,
+      "indexing_time_sec": 9.07,
+      "eval_time_sec": 0.191,
+      "mean_precision_at_k": 0.1389,
+      "mean_recall_at_k": 0.7778,
+      "mean_f1_at_k": 0.2328,
+      "mean_reciprocal_rank": 0.8333,
+      "hit_rate_at_k": 0.8333,
+      "missed_question_count": 2
+    },
+    {
+      "config_name": "1200_chars_200_overlap",
+      "chunk_size": 1200,
+      "chunk_overlap": 200,
+      "total_chunks": 448,
+      "indexing_time_sec": 8.01,
+      "eval_time_sec": 0.195,
+      "mean_precision_at_k": 0.1389,
+      "mean_recall_at_k": 0.7778,
+      "mean_f1_at_k": 0.2328,
+      "mean_reciprocal_rank": 0.8333,
+      "hit_rate_at_k": 0.8333,
+      "missed_question_count": 2
+    }
+  ]
+}

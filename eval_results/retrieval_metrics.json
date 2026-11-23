@@ -1,0 +1,15 @@
+{
+  "k": 6,
+  "total_questions": 12,
+  "evaluated_questions": 12,
+  "unlabelled_questions": 0,
+  "mean_precision_at_k": 0.1945,
+  "mean_recall_at_k": 0.9167,
+  "mean_f1_at_k": 0.3115,
+  "mean_reciprocal_rank": 0.9333,
+  "hit_rate_at_k": 1.0,
+  "total_eval_time_sec": 0.247,
+  "avg_query_latency_sec": 0.0206,
+  "missed_question_count": 0,
+  "missed_questions": []
+}
